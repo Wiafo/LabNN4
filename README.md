@@ -3,7 +3,7 @@
 Была использована модель из прошлой лабораторной, содержащая 3 слоя Convolution и 2 слоя Linear.
 Точность модели составила 0.282, а ее метрики – Accuracy: 28.20% Precision: 32.90% Recall: 28.20%.
 
-#Датасет
+##Датасет
 
 Датасет состоит из изображений различных видов спорта. В датасете представлены 100 классов. Ссылка на датасет: https://www.kaggle.com/datasets/gpiosenka/sports-classification
 
@@ -22,7 +22,7 @@
 
 ![augdata](https://github.com/Wiafo/LabNN4/assets/95855736/0ed88788-9bfa-4c6f-bbfa-6c8533af3855)
 
-#Результат
+##Результат
 
 Accuracy: 25.20%
 Precision: 25.62%
